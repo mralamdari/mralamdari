@@ -9,8 +9,23 @@
   <img height="160em" width='47%' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mralamdari&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img height="160em" width='48%' alt='GitHub Stats' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img height="160em" width='47%' alt="GitHub Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mralamdari&layout=compact&langs_count=8&theme=midnight-purple"/>
+</details>
+
+
+
+
+
 ##Skils
-##Languages
+##Languages and Tools:
 ##Experiences
 ##Cources
 ##Certificates
