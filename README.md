@@ -1,5 +1,6 @@
 # Hi there, I'm Mr.Alamdari 👋
 
+![Design and Development](https://github.com/mralamdari/mralamdari/blob/main/416481-hacker-picture-hd.jpg)
 
 ![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mralamdari)
 <p align="center">
