@@ -1,4 +1,4 @@
-# Hi there, I'm Mr.Alamdari 👋
+# Hi there 👋, I'm Mr.Alamdari
 
 ![Design and Development](https://github.com/mralamdari/mralamdari/blob/main/416481-hacker-picture-hd.jpg)
 
@@ -9,6 +9,11 @@
   <img height="160em" width='47%' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mralamdari&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
+##Skils
+##Languages
+##Experiences
+##Cources
+##Certificates
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
@@ -84,3 +89,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=dark)](https://git.io/streak-stats)
