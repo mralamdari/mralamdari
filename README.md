@@ -9,11 +9,9 @@ fill free to ask any questions that you desire.
 
 <!-- 
 ##Skils
-##Languages and Tools:
 ##Experiences
 ##Cources
 ##Certificates
-##Contact Me:
  -->
  
 <p align="center"> 
@@ -23,7 +21,7 @@ fill free to ask any questions that you desire.
 
 
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Contact me**
 <p align="left">
 <a href="https://dev.to/mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://medium.com/@mralamdari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mralamdari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mralamdari/" height="30" width="40" /></a>
@@ -50,9 +48,7 @@ fill free to ask any questions that you desire.
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
-
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 Languages and Tools:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
