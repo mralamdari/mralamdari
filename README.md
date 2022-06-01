@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Mr Alamdari
 
+[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25&type=horizontal)](https://medium.com/@harshalrj25)
+
+
 
 <!-- Social icons section -->
 <p align="center">
