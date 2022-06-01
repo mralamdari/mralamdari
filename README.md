@@ -269,25 +269,17 @@
 
 <!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
-#333333333333333333
+# 📊GitHub Profile Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mralamdari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true)<br/>
-<!-- # 📊GitHub Profile Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=mralamdari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mralamdari&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- 
 <details>
 <summary>:zap: GitHub Stats</summary>
 <p align="center">
 <a href="https://github.com/phanatagama">
-  <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" width='47%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
+  <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
 </a>
  </p>
-</details> -->
+</details>
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
