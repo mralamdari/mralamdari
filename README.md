@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Mr.Alamdari
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai)
+
+
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mralamdari)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Design and Development](https://github.com/mralamdari/mralamdari/blob/main/416481-hacker-picture-hd.jpg)
 
 <!-- https://meta.stackexchange.com/users/1202192/mr-alamdari -->
-
-
-![Design and Development](https://github.com/mralamdari/mralamdari/blob/main/416481-hacker-picture-hd.jpg)
 
 ![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mralamdari)
 <p align="center">
