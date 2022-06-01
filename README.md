@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Mr Alamdari
-
+<h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
+<h3 align="center">A passionate Deep Learning Researcher</h3>
 [![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25&type=horizontal)](https://medium.com/@harshalrj25)
 
 
@@ -408,42 +408,6 @@
 
 
 
-
-<br>
-<br>
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mralamdari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Mr.Alamdari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mralamdari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mralamdari/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mralamdari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19236747/mr-alamdari) 
 
@@ -459,19 +423,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=alamdari&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
-<h3 align="center">A passionate Deep Learning Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mralamdari&label=Profile%20views&color=0e75b6&style=flat" alt="mralamdari" /> </p>
 
