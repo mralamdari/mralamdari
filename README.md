@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
 <h3 align="center">A passionate Deep Learning Researcher</h3>
 
-<!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
 Currently I'm working on NLP and my goal is to create a christmas tree by working on Deep Learning Projects and commiting them daily and write articles on medium about what have I've learned recently and also I’m looking to collaborate on **ML/DL Projects**,
 fill free to ask any questions that you desire.
-
-<!-- 
-##Skils
-##Experiences
-##Cources
-##Certificates
- -->
  
 <p align="center"> 
   Daily Visitor count<br>
@@ -96,6 +89,10 @@ fill free to ask any questions that you desire.
 <!-- - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/) -->
 <!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8) -->
 <!-- - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
+
+
+## My Certificates
+
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
