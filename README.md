@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
 <h3 align="center">A passionate Deep Learning Researcher</h3>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
 
 Currently I'm working on NLP and my goal is to create a christmas tree by working on Deep Learning Projects and commiting them daily and write articles on medium about what have I've learned recently and also I’m looking to collaborate on **ML/DL Projects**,
@@ -32,13 +32,13 @@ fill free to ask any questions that you desire.
 <a href="https://medium.com/@mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mralamdari" height="30" width="40" /></a>
 </p>  
 
-## 📘 My top 3 open source projects
+<!-- ## 📘 My top 3 open source projects
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-
+ -->
  
 <!-- ## 📕 Top projects I've contributed to
   
@@ -50,7 +50,7 @@ fill free to ask any questions that you desire.
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
+### 👨‍💻 Programming languages
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -85,8 +85,11 @@ fill free to ask any questions that you desire.
 
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+<!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8) -->
+<!-- - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 # 📊GitHub Profile Stats:
@@ -104,15 +107,8 @@ fill free to ask any questions that you desire.
  <summary>⚡ Recent GitHub Activity</summary>
  <br/>
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai) -->
-
 [![Mr Alamdari's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 ## Snake Eating Contribution graph
 ![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif)
