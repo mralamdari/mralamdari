@@ -298,13 +298,8 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mralamdari)](https://github.com/anuraghazra/github-readme-stats)
-
-![Design and Development](https://github.com/mralamdari/mralamdari/blob/main/416481-hacker-picture-hd.jpg)
-
 <!-- https://meta.stackexchange.com/users/1202192/mr-alamdari -->
 
-![Phanatagama Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mralamdari)
 <p align="center">
 <a href="https://github.com/phanatagama">
   <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
