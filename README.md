@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
 <h3 align="center">A passionate Deep Learning Researcher</h3>
 
+<!-- 
+##Skils
+##Languages and Tools:
+##Experiences
+##Cources
+##Certificates
+##Contact Me:
+ -->
+
 
 <p align="center"> 
   Visitor count<br>
@@ -241,7 +250,7 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
-### Full Stack Projects
+### Computer Vision Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
@@ -251,7 +260,7 @@
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-### Cybersecurity Projects
+### NLP Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
 [![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
@@ -270,42 +279,21 @@
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-<!-- BLOG-POST-LIST:END -->
+
+
+<!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-
-<!-- https://meta.stackexchange.com/users/1202192/mr-alamdari -->
-
+<details>
+<summary>:zap: GitHub Stats</summary>
+  
 <p align="center">
 <a href="https://github.com/phanatagama">
   <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" width='47%' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mralamdari&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
-</p>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img height="160em" width='48%' alt='GitHub Stats' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</a></p>
 </details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img height="160em" width='47%' alt="GitHub Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mralamdari&layout=compact&langs_count=8&theme=midnight-purple"/>
-</details>
-
-
-
-
-
-##Skils
-##Languages and Tools:
-##Experiences
-##Cources
-##Certificates
-##Contact Me:
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
