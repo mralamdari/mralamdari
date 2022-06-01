@@ -12,50 +12,20 @@
 
 
 <p align="center"> 
-  Visitor count<br>
+  Daily Visitor count<br>
   <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
 </p>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=mralamdari&label=Profile%20views&color=0e75b6&style=flat" alt="mralamdari" /> </p>
-</p>
 
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/https://medium.com/@mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://medium.com/@mralamdari" height="30" width="40" /></a>
+<a href="https://dev.to/mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://medium.com/@mralamdari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mralamdari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mralamdari/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19236747/mr-alamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19236747/mr-alamdari" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/efa2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/efa2000" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/efa2000" height="30" width="40" /></a>
 <a href="https://medium.com/@mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mralamdari" height="30" width="40" /></a>
-</p>
-
-
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
-<br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
-
-  
-  
-  
-  
-  
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
+</p>  
 
 ## 📘 My top 3 open source projects
 
@@ -191,25 +161,6 @@
 </p>
 
 
-
-
-
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-
- 
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-
-<details>
- <summary>⚡ Recent GitHub Activity</summary>
- <br/>
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#242](https://github.com/DenverCoder1/github-readme-streak-stats/pull/242) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 2. 🗣 Commented on [#242](https://github.com/DenverCoder1/github-readme-streak-stats/issues/242) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -266,6 +217,17 @@
 </a>
  </p>
 </details>
+
+
+<details>
+ <summary>⚡ Recent GitHub Activity</summary>
+ <br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
