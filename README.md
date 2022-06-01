@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
 <h3 align="center">A passionate Deep Learning Researcher</h3>
 
+Currently I'm working on NLP and my goal is to create a christmas tree by working on Deep Learning Projects and commiting them daily and write articles on medium about what have I've learned recently and also I’m looking to collaborate on **ML/DL Projects**,
+fill free to ask any questions that you desire.
+
 <!-- 
 ##Skils
 ##Languages and Tools:
@@ -9,8 +12,7 @@
 ##Certificates
 ##Contact Me:
  -->
-
-
+ 
 <p align="center"> 
   Daily Visitor count<br>
   <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
@@ -211,22 +213,21 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 <p align="center">
-<a href="https://github.com/phanatagama">
+<!-- <a href="https://github.com/phanatagama"> -->
   <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
 </a>
  </p>
 </details>
 
-
 <details>
  <summary>⚡ Recent GitHub Activity</summary>
  <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai) -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Mr Alamdari's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
 
 
 
@@ -309,19 +310,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-- 🔭 I’m currently working on **DL projects**
-
-- 🌱 I’m currently learning **NLP and Computer Vision**
-
-- 👯 I’m looking to collaborate on **ML/DL Projects**
-
-- 🤝 I’m looking for help with **Real World ML/DL Projects**
-
-- 👨‍💻 All of my projects are available at [www.mralamdari.ir](www.mralamdari.ir)
-
-- 📝 I regularly write articles on [https://medium.com/feed/@mralamdari](https://medium.com/feed/@mralamdari)
-
-- 💬 Ask me about **Deep learning & Machine Learning**
-
-- 📫 How to reach me **mralamdari2000@gmail.com**
