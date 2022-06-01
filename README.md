@@ -1,7 +1,18 @@
 # Hi there 👋, I'm Mr.Alamdari
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mralamdari&theme=monokai)
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
+</p>
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mralamdari)](https://github.com/anuraghazra/github-readme-stats)
