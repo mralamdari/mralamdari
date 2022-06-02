@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr.Alamdari</h1>
+<h1 align="center">Hi 👋, I'm Mr Alamdari</h1>
 <h3 align="center">A passionate Deep Learning Researcher</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
@@ -81,18 +81,6 @@ fill free to ask any questions that you desire.
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
  -->
 
-<!-- # 📚 My Blog posts -->
-
-📕 &nbsp;**Latest Blog Posts**
-
-<!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf) -->
-<!-- - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/) -->
-<!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8) -->
-<!-- - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
-
-
-## My Certificates
-
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -110,10 +98,10 @@ fill free to ask any questions that you desire.
 </details>
 
 <details>
- <summary>⚡ GitHub Activity</summary>
+ <summary>⚡ GitHub Recent Activity</summary>
  <br/>
 
-[![Mr Alamdari's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details> -->
 
 
@@ -122,10 +110,24 @@ fill free to ask any questions that you desire.
   <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
 
-<summary>⚡GitHub Activity</summary>
+<summary>⚡GitHub Recent Activity</summary>
 
-[![Mr Alamdari's github activity graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+ 
+<!-- # 📚 My Blog posts -->
+
+📕 &nbsp;**Latest Blog Posts**
+
+<!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf) -->
+<!-- - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/) -->
+<!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8) -->
+<!-- - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
+
+
+##🎓 Certificates
+
+ 
 ## Snake Eating Contribution graph
 ![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif)
