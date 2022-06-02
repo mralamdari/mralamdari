@@ -3,10 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-
-Currently I'm working on NLP and my goal is to create a *hristmas tree* byworking on Deep Learning Projects and commiting them daily and write articles on medium about what have I've learned recently and also I’m looking to collaborate on **ML/DL Projects**,
-fill free to ask any questions that you desire.
- 
+<p>
+Currently, I'm working on NLP Projects, and my goal is to create a Christmas tree by working on Deep Learning Projects, commiting them daily, and writing articles on medium about what I've learned recently.
+Also, I'm looking to collaborate on ML/DL Projects.
+</p>
+<p>
+So feel free to contact me if you want to need my help to collaborate on a project or if you have any questions.
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
