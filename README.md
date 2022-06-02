@@ -82,7 +82,7 @@ fill free to ask any questions that you desire.
  -->
 
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
@@ -127,5 +127,5 @@ fill free to ask any questions that you desire.
 ## 🏅 Certificates
 
  
-## Snake Eating Contribution graph
+## 🐍 Snake Eating Contribution graph
 ![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif)
