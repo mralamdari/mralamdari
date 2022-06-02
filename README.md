@@ -128,6 +128,18 @@ So feel free to contact me if you want to need my help to collaborate on a proje
 
 
 ## 🏅 Certificates
+### 🥇 Python for Everybody Specialization-University of Michigan-Coursera
+  
+[![](https://img.shields.io/badge/-🥇%20Capstone-000)](https://coursera.org/share/f0b4b11120b44f843812fa2baecb9ac0)
+[![](https://img.shields.io/badge/-🥇%20Getting%20Started-000)](https://coursera.org/share/7ba6b8218719d5768f7d9c9ae1845a81)
+[![](https://img.shields.io/badge/-🥇%20Data%20Structures-000)](https://coursera.org/share/4599187a751aafde619b235f809c1e42)
+[![](https://img.shields.io/badge/-🥇%20DataBases-000)](https://coursera.org/share/d3583f4fae010d01cd8f92ba24024368)
+[![](https://img.shields.io/badge/-🥇%20Access%20Web%20Data-000)](https://coursera.org/share/af56e6d2170c19e2093297fc821c3ffe)
+[![](https://img.shields.io/badge/-🥇%20FINAL-000)](https://coursera.org/share/f923e0f4b42ca5badcea7940c60aac3c)
+  
+  
+### 🥇 Deep Learning Specialization-DeepLearning.AI-Coursera
+
 
  
 ## 🐍 Snake Eating Contribution graph
