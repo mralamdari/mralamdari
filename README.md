@@ -147,6 +147,9 @@ So feel free to contact me if you want to need my help to collaborate on a proje
 [![](https://img.shields.io/badge/-🥇%20Improving%20Deep%20Neural%20Networks-000)](https://coursera.org/share/5db2ae8f59b83c226330d1e66cb758f8)
 [![](https://img.shields.io/badge/-🥇%20FINAL-000)](https://coursera.org/share/1fb599e2219ea60cb7561904ad34356b)
 
+### 🏅 Machine Learning Cources-Coursera
+[![](https://img.shields.io/badge/-🥇%20Machine%20Learning%20with%20Python%20%20IBM-000)](https://coursera.org/share/8dcf63dd09fca0f0362b3a56f1ec110e)
+[![](https://img.shields.io/badge/-🥇%20%20Machine%20Learning%20%20Stanford-000)](https://coursera.org/share/90314e500f962e1ff3eb45d11c419d8a)
  
 ## 🐍 Snake Eating Contribution graph
 ![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif)
