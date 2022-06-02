@@ -139,11 +139,11 @@ So feel free to contact me if you want to need my help to collaborate on a proje
   
   
 ### 🏅 Deep Learning Specialization-DeepLearning.AI-Coursera
+  
+[![](https://img.shields.io/badge/-🥇%20Neural%20Networks%20and%20Deep%20Learning-000)](https://coursera.org/share/558e93139a88e085ffb7297bf47987ce)
 [![](https://img.shields.io/badge/-🥇%20Convolutional%20Neural%20Networks-000)](https://coursera.org/share/9e604ff6ffaf430f3cc2b23d396dfcc1)
 [![](https://img.shields.io/badge/-🥇%20Sequence%20Models-000)](https://coursera.org/share/2f67853a91f777aed5485935997deee9)
 [![](https://img.shields.io/badge/-🥇%20Structuring%20Machine%20Learning%20Projects-000)](https://coursera.org/share/48f4f13a778073756fdc9dacda6ae8ef)
-[![](https://img.shields.io/badge/-🥇%20Neural%20Networks%20and%20Deep%20Learning-000)](https://coursera.org/share/558e93139a88e085ffb7297bf47987ce)
-[![](https://img.shields.io/badge/-🥇%20Convolutional%20Neural%20Networks-000)](https://coursera.org/share/9e604ff6ffaf430f3cc2b23d396dfcc1)
 [![](https://img.shields.io/badge/-🥇%20Improving%20Deep%20Neural%20Networks-000)](https://coursera.org/share/5db2ae8f59b83c226330d1e66cb758f8)
 [![](https://img.shields.io/badge/-🥇%20FINAL-000)](https://coursera.org/share/1fb599e2219ea60cb7561904ad34356b)
 
