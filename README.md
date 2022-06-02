@@ -15,7 +15,6 @@ So feel free to contact me if you want to need my help to collaborate on a proje
   <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
 </p>
 
-
 🔗 &nbsp;**Contact me**
 <p align="left">
 <a href="https://dev.to/mralamdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://medium.com/@mralamdari" height="30" width="40" /></a>
