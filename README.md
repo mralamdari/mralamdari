@@ -64,18 +64,18 @@ So feel free to contact me if you want to need my help to collaborate on a proje
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 
+
 ### My Top 3 Computer Vision Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Single Object Detection-000)](https://github.com/mralamdari/Single-Object-Detection-Pytorch)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Multi Object Detection-000)](https://github.com/mralamdari/Multi-Object-Detection-Pytorch)
-[![](https://img.shields.io/badge/-🧬%20Single Object Segmentation-000)](https://github.com/mralamdari/Single-Object-Segmentation-Pytorch)
-[![](https://img.shields.io/badge/-🔬%20Multi Object Segmentation-000)](https://github.com/mralamdari/Multi-Object-Segmentation-Pytorch)
+[![](https://img.shields.io/badge/-🦠%20Multi%20Object%20Detection-000)](https://github.com/mralamdari/Multi-Object-Detection-Pytorch)
+[![](https://img.shields.io/badge/-🧬%20Single%20Object%20Segmentation-000)](https://github.com/mralamdari/Single-Object-Segmentation-Pytorch)
+[![](https://img.shields.io/badge/-🔬%20Multi%20Object%20Segmentation-000)](https://github.com/mralamdari/Multi-Object-Segmentation-Pytorch)
 
 ### My Top 3 NLP Projects
 
-[![](https://img.shields.io/badge/-🩸%20Text Classification-000)](https://github.com/mralamdari/NLP-Text_Classification)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Sentiment-Analysis-000)](https://github.com/mralamdari/NLP-Sentiment-Analysis)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spam Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector)
+[![](https://img.shields.io/badge/-🩸%20Text%20Classification-000)](https://github.com/mralamdari/NLP-Text_Classification)
+[![](https://img.shields.io/badge/-🌊%20Sentiment%20Analysis-000)](https://github.com/mralamdari/NLP-Sentiment-Analysis)
+[![](https://img.shields.io/badge/-🗂%20Spam%20Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector)
 
 
 ## 🏆 GitHub Trophies
