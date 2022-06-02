@@ -8,7 +8,7 @@ Currently I'm working on NLP and my goal is to create a christmas tree by workin
 fill free to ask any questions that you desire.
  
 <p align="center"> 
-  Daily Visitor count<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
 </p>
 
@@ -38,9 +38,9 @@ fill free to ask any questions that you desire.
   <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  -->
 
-## 🛠️ My favorite tools
+## 🛠️ Favorite Tools
 
-### 👨‍💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
@@ -116,9 +116,7 @@ fill free to ask any questions that you desire.
 
 
  
-<!-- # 📚 My Blog posts -->
-
-📕 &nbsp;**Latest Blog Posts**
+## 📚 Latest Blog posts
 
 <!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf) -->
 <!-- - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/) -->
@@ -126,7 +124,7 @@ fill free to ask any questions that you desire.
 <!-- - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 
 
-##🎓 Certificates
+## 🏅 Certificates
 
  
 ## Snake Eating Contribution graph
