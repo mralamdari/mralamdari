@@ -67,8 +67,8 @@ So feel free to contact me if you want to need my help to collaborate on a proje
 
 ### My Top 3 Computer Vision Projects
 
-[![](https://img.shields.io/badge/-🦠%20Multi%20Object%20Detection-000)](https://github.com/mralamdari/Multi-Object-Detection-Pytorch)
-[![](https://img.shields.io/badge/-🧬%20Single%20Object%20Segmentation-000)](https://github.com/mralamdari/Single-Object-Segmentation-Pytorch)
+[![](https://img.shields.io/badge/-🧬%20Object%20Detection%20Projects-000)](https://github.com/mralamdari/CV-Object-Detection-Projects)
+[![](https://img.shields.io/badge/-🐍%20Snake%20Game-000)](https://github.com/mralamdari/CV-SnakeGame)
 [![](https://img.shields.io/badge/-🔬%20Multi%20Object%20Segmentation-000)](https://github.com/mralamdari/Multi-Object-Segmentation-Pytorch)
 
 ### My Top 3 NLP Projects
