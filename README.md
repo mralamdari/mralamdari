@@ -3,6 +3,11 @@
 <h3 align="center">A Passionate Deep Learning Researcher</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<!-- 
+<p align="center">
+  <img height="160em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+ </p> -->
+
 
 <p>
 Presently, I'm working on NLP Projects, and my objective is to assemble a Christmas tree by working on Deep Learning Projects, committing them daily, and authoring articles on medium about what I've learned recently. Also, I'm looking forward to collaborating on ML/DL Projects.
