@@ -123,10 +123,10 @@ So feel free to contact me if you want my help cooperating on a project or if yo
  -->
 
  
-📚 Latest Blog posts
+## 📚 Latest Blog posts
 
-[How to do Object Recognition with TensorFlow(Keras) the Easiest way](https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7)
-[How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
+#### [How to do Object Recognition with TensorFlow(Keras) the Easiest way](https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7)
+#### [How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
 
 
 ## 💎 Certificates
