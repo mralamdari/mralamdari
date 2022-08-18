@@ -102,21 +102,22 @@ So feel free to contact me if you want my help cooperating on a project or if yo
  <br/>
 
 [![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>  -->
+</details> 
 
 
 <summary>⚡ GitHub Stats</summary>
+-->
 <p align="center">
   <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
 
- <details>
+<!-- <details>
  <summary>⚡ GitHub Recent Activity</summary>
  <br/>
 
 [![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details> 
- 
+ --> 
 <!-- <summary>⚡ GitHub Recent Activity</summary>
 
 [![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
