@@ -73,7 +73,7 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 
 [![](https://img.shields.io/badge/-🧬%20Object%20Detection%20Projects-000)](https://github.com/mralamdari/CV-Object-Detection-Projects)
 [![](https://img.shields.io/badge/-🐍%20Snake%20Game-000)](https://github.com/mralamdari/CV-SnakeGame)
-[![](https://img.shields.io/badge/-🔬%20YOLO-000)]()
+[![](https://img.shields.io/badge/-🔬%20YOLO-000)](https://github.com/mralamdari/CV-Yolo)
 
 ### My Top 3 NLP Projects
 
