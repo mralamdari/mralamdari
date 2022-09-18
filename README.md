@@ -71,15 +71,15 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 
 ### My Top 3 Computer Vision Projects
 
-[![](https://img.shields.io/badge/-🧬%20Object%20Detection%20Projects-000)](https://github.com/mralamdari/CV-Object-Detection-Projects)
-[![](https://img.shields.io/badge/-🐍%20Snake%20Game-000)](https://github.com/mralamdari/CV-SnakeGame)
-[![](https://img.shields.io/badge/-🔬%20YOLO-000)](https://github.com/mralamdari/CV-Yolo)
+[![](https://img.shields.io/badge/-🧬%20YOLO-000)](https://github.com/mralamdari/YOLO)
+[![](https://img.shields.io/badge/-🐍%20Computer%20Vision%20Projects-000)](https://github.com/mralamdari/Computer-Vision-Projects)
+[![](https://img.shields.io/badge/-🔬%20Computer%20Vision%20with%20ImageProcessing-000)](https://github.com/mralamdari/ComputerVision_with_ImageProcessing)
 
-### My Top 3 NLP Projects
+### My Top 2 NLP Projects
 
-[![](https://img.shields.io/badge/-🩸%20Text%20Classification-000)](https://github.com/mralamdari/NLP-Text_Classification)
-[![](https://img.shields.io/badge/-🌊%20Sentiment%20Analysis-000)](https://github.com/mralamdari/NLP-Sentiment-Analysis)
-[![](https://img.shields.io/badge/-🗂%20Spam%20Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector)
+[![](https://img.shields.io/badge/-🩸%20Top%20Titles-000)](https://github.com/mralamdari/NLP-Top-Titles)
+[![](https://img.shields.io/badge/-🌊%20Classification-000)](https://github.com/mralamdari/NLP-Classification)
+<!-- [![](https://img.shields.io/badge/-🗂%20Spam%20Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector) -->
 
 
 ## 🏆 GitHub Trophies
