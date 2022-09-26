@@ -10,7 +10,7 @@
 </p> 
 
 <p>
-Presently, I'm working on NLP Projects, and my objective is to assemble a Christmas tree by working on Deep Learning Projects, committing them daily, and authoring articles on medium about what I've learned recently. Also, I'm looking forward to collaborating on ML/DL Projects.
+Presently, I'm working on Computer Vision Projects, and my objective is being a master in Kaggle and to assemble a Christmas tree by working on Deep Learning Projects, committing them daily, and authoring articles on medium about what I've learned recently. Also, I'm looking forward to collaborating on ML/DL Projects.
 </p>
 <p>
 So feel free to contact me if you want my help cooperating on a project or if you have any questions.
