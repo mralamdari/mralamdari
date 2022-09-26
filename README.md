@@ -128,6 +128,11 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 
 #### 📘 [How to do Object Recognition with TensorFlow(Keras) the Easiest way](https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7)
 #### 📗 [How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
+#### 📘 [Detect Superman by YOLO](https://medium.com/@mralamdari/detect-superman-by-yolo-5d81a065a95e)
+#### 📗 [Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
+#### 📘 [Yolo V2 in Use](https://medium.com/@mralamdari/yolo-v2-in-use-684c71482880)
+#### 📗 [Yolo V3 in Use](https://medium.com/@mralamdari/yolo-v3-in-use-e53bd96348a9)
+
 
 
 ## 💎 Certificates
