@@ -69,17 +69,22 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 
 
-### My Top 3 Computer Vision Projects
+### 🧢 My Top 3 Computer Vision Projects
 
 [![](https://img.shields.io/badge/-🧬%20YOLO-000)](https://github.com/mralamdari/YOLO)
 [![](https://img.shields.io/badge/-🐍%20Computer%20Vision%20Projects-000)](https://github.com/mralamdari/Computer-Vision-Projects)
 [![](https://img.shields.io/badge/-🔬%20Computer%20Vision%20with%20ImageProcessing-000)](https://github.com/mralamdari/ComputerVision_with_ImageProcessing)
 
-### My Top 2 NLP Projects
+### 🎩 My Top 2 NLP Projects
 
 [![](https://img.shields.io/badge/-🩸%20Top%20Titles-000)](https://github.com/mralamdari/NLP-Top-Titles)
 [![](https://img.shields.io/badge/-🌊%20Classification-000)](https://github.com/mralamdari/NLP-Classification)
 <!-- [![](https://img.shields.io/badge/-🗂%20Spam%20Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector) -->
+
+### 📸 My Top 3 Datasets
+[![](https://img.shields.io/badge/-🏹%20Superman%20or%20Batman-000)](https://www.kaggle.com/datasets/mralamdari/superman-or-batman)
+[![](https://img.shields.io/badge/-🎬%20Batman%20Man%20Images%20Dataset-000)](https://www.kaggle.com/datasets/mralamdari/batman-images-dataset)
+[![](https://img.shields.io/badge/-🎼%20Super%20Man%20Images%20Dataset-000)](https://www.kaggle.com/datasets/mralamdari/super-man-images-dataset)
 
 
 ## 🏆 GitHub Trophies
@@ -123,17 +128,13 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 [![Mr Alamdari's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralamdari&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 
- 
 ## 📚 Latest Blog posts
-
-#### 📘 [How to do Object Recognition with TensorFlow(Keras) the Easiest way](https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7)
-#### 📗 [How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
-#### 📘 [Detect Superman by YOLO](https://medium.com/@mralamdari/detect-superman-by-yolo-5d81a065a95e)
-#### 📗 [Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
-#### 📘 [Yolo V2 in Use](https://medium.com/@mralamdari/yolo-v2-in-use-684c71482880)
-#### 📗 [Yolo V3 in Use](https://medium.com/@mralamdari/yolo-v3-in-use-e53bd96348a9)
-
-
+### 📓 [Yolo V2 in Use](https://medium.com/@mralamdari/yolo-v2-in-use-684c71482880)
+### 📔 [Yolo V3 in Use](https://medium.com/@mralamdari/yolo-v3-in-use-e53bd96348a9)
+### 📕 [Detect Batman by YOLO](https://medium.com/@mralamdari/detect-batman-by-yolo-331b8b1abe34)
+### 📙 [Detect Superman by YOLO](https://medium.com/@mralamdari/detect-superman-by-yolo-5d81a065a95e)
+### 📗 [How to do Object Recognition with PyTorch the Easiest way](https://medium.com/@mralamdari/uagehow-to-do-object-recognition-with-pytorch-the-easiest-way-d0a2750f5fe7)
+### 📘 [How to do Object Recognition with TensorFlow(Keras) the Easiest way](https://medium.com/@mralamdari/imagehow-to-do-object-recognition-with-tensorflow-keras-the-easiest-way-23c7ab9604c7)
 
 ## 💎 Certificates
 ### 🏅 Python for Everybody Specialization-University of Michigan-Coursera
