@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 -->
 <p align="center">
-  <img height="10%" width='100%' src="https://github.com/mralamdari/mralamdari/blob/main/mralamdari.png"/>
+  <img height="10%" width='100%' src="https://github.com/mralamdari/mralamdari/blob/main/14.png"/>
 </p> 
 
 <p>
