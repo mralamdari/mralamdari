@@ -85,7 +85,7 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 [![](https://img.shields.io/badge/-🏹%20Superman%20or%20Batman-000)](https://www.kaggle.com/datasets/mralamdari/superman-or-batman)
 [![](https://img.shields.io/badge/-🎬%20Batman%20Man%20Images%20Dataset-000)](https://www.kaggle.com/datasets/mralamdari/batman-images-dataset)
 [![](https://img.shields.io/badge/-🎼%20Super%20Man%20Images%20Dataset-000)](https://www.kaggle.com/datasets/mralamdari/super-man-images-dataset)
-[![](https://img.shields.io/badge/-🎼%20Super%20Man%20Images%20Dataset-000)](https://www.kaggle.com/datasets/mralamdari/superman-vs-batman-vs-person)
+[![](https://img.shields.io/badge/-🏹%20Superman%20Vs%20Batman%20Vs%20Person-000)](https://www.kaggle.com/datasets/mralamdari/superman-vs-batman-vs-person)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
