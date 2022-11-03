@@ -75,10 +75,10 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 [![](https://img.shields.io/badge/-🐍%20Computer%20Vision%20Projects-000)](https://github.com/mralamdari/Computer-Vision-Projects)
 [![](https://img.shields.io/badge/-🔬%20Computer%20Vision%20with%20ImageProcessing-000)](https://github.com/mralamdari/ComputerVision_with_ImageProcessing)
 
-### 🎩 My Top 2 NLP Projects
+### 🎩 My Top NLP Projects
 
-[![](https://img.shields.io/badge/-🩸%20Top%20Titles-000)](https://github.com/mralamdari/NLP-Top-Titles)
-[![](https://img.shields.io/badge/-🌊%20Classification-000)](https://github.com/mralamdari/NLP-Classification)
+[![](https://img.shields.io/badge/-🩸%20Natural%20language%20processing-000)](https://github.com/mralamdari/Natural-language-processing)
+<!-- [![](https://img.shields.io/badge/-🌊%20Classification-000)](https://github.com/mralamdari/NLP-Classification) -->
 <!-- [![](https://img.shields.io/badge/-🗂%20Spam%20Detector-000)](https://github.com/mralamdari/NLP-Spam-Detector) -->
 
 ### 📸 My Top 4 Datasets
