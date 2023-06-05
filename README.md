@@ -5,10 +5,6 @@
 <!--
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 -->
-<p align="center">
-  <img height="10%" width='100%' src="https://github.com/mralamdari/mralamdari/blob/main/14.png"/>
-</p> 
-
 <p>
 Presently, I'm working on Computer Vision Projects, and my objective is to be a master in Kaggle and to assemble a Christmas tree by working on Deep Learning Projects, committing them daily, and authoring articles on medium about what I've learned recently. Also, I'm looking forward to collaborating on ML/DL Projects.
 </p>
