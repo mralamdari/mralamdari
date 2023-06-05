@@ -94,7 +94,7 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 ![](https://github-profile-trophy.vercel.app/?username=mralamdari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-## 📊 GitHub Profile Stats:
+<!-- ## 📊 GitHub Profile Stats: -->
 
 <!-- <details>
 <summary>:zap:⚡ GitHub Stats</summary>
@@ -115,9 +115,9 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 
 <summary>⚡ GitHub Stats</summary>
 -->
-<p align="center">
+<!-- <p align="center">
   <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/>
+  <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=mralamdari&theme=midnight-purple&hide_border=true"/> -->
 
 <!-- <details>
  <summary>⚡ GitHub Recent Activity</summary>
@@ -164,4 +164,4 @@ So feel free to contact me if you want my help cooperating on a project or if yo
 [![](https://img.shields.io/badge/-🥇%20%20Machine%20Learning%20%20Stanford-000)](https://coursera.org/share/90314e500f962e1ff3eb45d11c419d8a)
  
 ## 🐍 Snake Eating Contribution graph
-![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/mralamdari/mralamdari/blob/output/github-contribution-grid-snake.gif) -->
