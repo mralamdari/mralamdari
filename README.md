@@ -2,9 +2,9 @@
 
 <h3 align="center">A Kaggle Expert Interested in Deep Learning</h3>
 
-<!--
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
--->
+
 
 <!--
 <p align="center">
