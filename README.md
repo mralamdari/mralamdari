@@ -11,7 +11,9 @@
 
 
 <p>
-Presently, I'm working on Computer Vision Projects, and my objective is to be a master in Kaggle and to assemble a Christmas tree by working on Deep Learning Projects, committing them daily, and authoring articles on medium about what I've learned recently. Also, I'm looking forward to collaborating on ML/DL Projects.
+I’m Esmaeil, a deep learning engineer specializing in computer vision. With 6+ years of crafting AI-driven solutions, I tackle complex vision challenges and deploy SOTA models on cloud and edge to automate tasks, cut costs, and boost efficiency.
+
+I thrive on turning research into real-world products. Armed with a Master’s in Artificial Intelligence & Robotics, I architect scalable pipelines using Keras, TensorFlow, and PyTorch, backed by solid MLOps practices on Azure & AWS. I’m passionate about exploring Agentic AI frameworks like LangChain and LlamaIndex to push the boundaries of autonomous systems.
 </p>
 <p>
 So feel free to contact me if you want my help cooperating on a project or if you have any questions.
